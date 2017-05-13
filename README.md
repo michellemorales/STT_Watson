@@ -1,6 +1,6 @@
 # Watson Speech-to-text with Speaker Diarization
 
-This script `watsonSTT.py` is built on top of the examples provided in the watson-developer-cloud Python SDK repo: [https://github.com/watson-developer-cloud/python-sdk](https://github.com/watson-developer-cloud/python-sdk). The script takes as input a wav file, runs Watson's speech-to-text with speaker diarization, and saves json file with the output. A detailed description of how to interpet the json output, can be found [here](https://www.ibm.com/watson/developercloud/doc/speech-to-text/output.html). 
+This script `watsonSTT.py` is built on top of the examples provided in the [watson-developer-cloud Python SDK repo](https://github.com/watson-developer-cloud/python-sdk). The script takes as input a wav file, runs Watson's speech-to-text with speaker diarization, and saves json file with the output. A detailed description of how to interpet the json output, can be found [here](https://www.ibm.com/watson/developercloud/doc/speech-to-text/output.html). 
 
 ## Installation
 First download the [watson-developer-cloud](https://github.com/watson-developer-cloud/python-sdk#installation) for Python.
